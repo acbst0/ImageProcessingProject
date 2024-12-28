@@ -1,0 +1,5 @@
+tk
+opencv-python-headless>=4.5.1
+numpy>=1.20.0
+pillow>=8.0.0
+matplotlib>=3.3.0
